@@ -107,4 +107,4 @@ lstm_mse = mean_squared_error(y_test, lstm_pred)
 print(f'LSTM MSE: {lstm_mse:.2f}')
 This example demonstrates how to train two different machine learning models (Random Forest Regressor and LSTM) on traffic volume data. You can modify and extend this code to suit your specific needs.
 
-Note: This is a simplified example and might not reflect the actual complexity of the Traffic Intelligence system
+
